@@ -1,8 +1,6 @@
 import streamlit as st
 
-
 from jamb import data_pel, grouped_data 
-
 
 st.title('Welcome to Ode Remo')
 
